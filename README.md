@@ -5,5 +5,5 @@
 
 ### Table of Contents
 
-- [OH platform API documentation](/GPUPC/API.md)
+- [OH platform API documentation](/API/API.md)
 
