@@ -3,4 +3,4 @@
 
 ### Table of Contents
 
-- [Authentication Service API specification](OH%20platform%20authentication%20API%20service.mhtml)
+- [Authentication Service API specification](https://documenter.getpostman.com/view/1072093/2s93eeRpNj)
