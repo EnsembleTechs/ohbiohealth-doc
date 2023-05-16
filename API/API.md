@@ -39,3 +39,12 @@ The decoded token provides a key pair with "jwt" and value is another JWT token.
 ![Token2](JWT-Decode-3b.png)
 
 
+The final decoded JWT token:
+* id : the long string id is used to update the user profile
+* email: the registered user email which will be referenced for User Login and Recover Request.
+* username: the registered user name is used to get user's profile
+* entitlement: the application should screen this entitlement to control the user's access right and usage.
+* lst: timestamp for the valid session time, i.e. the login time
+* exp: the expired timestamp for this session. Please reference [here](https://timestamp.online/) for decoding the timestamp
+
+![Token3](JWT-Decode-exp.png)
