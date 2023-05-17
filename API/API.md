@@ -30,7 +30,7 @@ Other Information :
 
 #### Decode of JWT token return from User Login API
 
-The User Login API returns the token inside Cookies under the name "express:sess". If you decode the token in https://jwt.io as below:
+The User Login API returns the token inside Cookies under the name "express:sess". The token is automatically attached as a session cookie to OH platform's web site. If you decode the token in https://jwt.io as below:
 
 ![Token1](JWT-Decode-3a-1.png)
 
